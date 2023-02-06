@@ -1,2 +1,3 @@
 # demo_R
-personalized_gene_expression
+Re-analysis of RNASeq dataset through co-expression network approach 
+
