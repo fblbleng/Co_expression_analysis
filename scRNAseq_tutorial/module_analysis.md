@@ -4,7 +4,7 @@
 
 This tutorial provides a comprehensive walkthrough of using **hdWGCNA** (high-dimensional Weighted Gene Co-expression Network Analysis) for single-cell RNA-seq data, specifically demonstrating the analysis pipeline using a preprocessed single-nucleus RNA-seq (snRNA-seq) dataset of human cortical samples.
 
-### [Link to Tutorial](https://smorabit.github.io/hdWGCNA/articles/single_cell.html)
+### [Link to Tutorial](https://smorabit.github.io/hdWGCNA/index.html)
 
 ## Key Steps Summarized
 
