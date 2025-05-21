@@ -2,7 +2,7 @@
 
 ## Tutorial Overview
 
-This tutorial provides a comprehensive walkthrough of using **hdWGCNA** (high-dimensional Weighted Gene Co-expression Network Analysis) for single-cell RNA-seq data, specifically demonstrating the analysis pipeline using a preprocessed single-nucleus RNA-seq (snRNA-seq) dataset of human cortical samples.
+This tutorial provides a comprehensive walkthrough of using **hdWGCNA** (high-dimensional Weighted Gene Co-expression Network Analysis) for single-cell RNA-seq data.
 
 ### [Link to Tutorial](https://smorabit.github.io/hdWGCNA/index.html)
 
@@ -20,7 +20,7 @@ This tutorial provides a comprehensive walkthrough of using **hdWGCNA** (high-di
 
 ### 3. **Co-expression Network Analysis**
 
-* Focus analysis on specific cell types, like inhibitory neurons (INH).
+* Focus analysis on specific cell types.
 * Select optimal soft-power threshold to construct robust gene-gene correlation networks.
 * Generate and visualize dendrograms depicting co-expression modules.
 
