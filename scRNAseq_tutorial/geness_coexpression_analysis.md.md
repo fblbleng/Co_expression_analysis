@@ -1,4 +1,4 @@
-# hdWGCNA Single-cell Tutorial
+# hdWGCNA Tutorial
 
 ## Tutorial Overview
 
